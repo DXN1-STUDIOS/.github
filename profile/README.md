@@ -1,140 +1,85 @@
 <div align="center">
 
-<img src="./assets/studio-header.svg" width="100%" alt="DXN1-STUDIOS — independent engineering and research" />
+<img src="./assets/studio-header.svg" alt="DXN1-STUDIOS — Independent Engineering & Research" width="100%" />
 
 <br />
 
-### Research without the noise. Engineering without the shortcuts.
+# DXN1-STUDIOS
 
-**PHYSICS · ASTROPHYSICS · ARTIFICIAL INTELLIGENCE · SOFTWARE SYSTEMS**
+### Independent research. Real engineering. Open exploration.
 
-An independent studio exploring questions worth investigating — and building the tools needed to test them.
+**Physics** &nbsp;·&nbsp; **Astrophysics** &nbsp;·&nbsp; **Artificial Intelligence** &nbsp;·&nbsp; **Open Source**
 
-[**RESEARCH**](#02--research--projects) &nbsp; / &nbsp; [**FOCUS**](#01--what-we-work-on) &nbsp; / &nbsp; [**OPEN SOURCE**](https://github.com/DXN1-STUDIOS?tab=repositories) &nbsp; / &nbsp; [**CONTACT & LINKS**](#04--connect)
+We explore difficult scientific and engineering questions, turn ideas into experiments, and build software that people can actually use.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<br />
+
+<a href="https://www.youtube.com/@DXN1-AI"><img alt="YouTube — DXN1-AI" src="https://img.shields.io/badge/YouTube-DXN1--AI-FF0033?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+&nbsp;
+<a href="https://x.com/dxn1_0day"><img alt="X — @dxn1_0day" src="https://img.shields.io/badge/X-Follow%20%40dxn1__0day-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+&nbsp;
+<a href="https://dxn1-ai.vercel.app/"><img alt="DXN1 website" src="https://img.shields.io/badge/Website-Explore-1677FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<br /><br />
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 </div>
 
-## 00 / ABOUT
-
-**DXN1-STUDIOS** is an independent research and development initiative working across theoretical physics, computational science, AI research, and software engineering.
-
-We care about the space between an ambitious idea and a defensible result: the equations, the assumptions, the code, the experiments, and the honest accounting of what still isn't known.
-
-The goal is not to make everything look finished. It is to **make interesting work inspectable, reproducible, and worth building on.**
-
-## 01 / WHAT WE WORK ON
+## What we do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — PHYSICS & ASTROPHYSICS**
+### 🌌 Physics & Astrophysics
 
-Cosmology, theoretical models, mathematical analysis, computational experiments, and research preprints.
+We investigate questions in theoretical physics, cosmology, gravitation, and astrophysics through mathematics, models, and computational analysis.
 
 </td>
 <td width="50%" valign="top">
 
-**02 — ARTIFICIAL INTELLIGENCE**
+### 🧠 AI Research
 
-Language-model architectures, computational efficiency, reasoning systems, evaluation, and experimental methods.
+We explore language-model architectures, efficient computation, evaluation methods, and experimental approaches to intelligent systems.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**03 — SOFTWARE ENGINEERING**
+### ⚙️ Software Engineering
 
-Backend systems, open-source utilities, developer infrastructure, operating systems, and practical research tooling.
+We build open-source tools, backend systems, developer infrastructure, and software that supports ambitious technical work.
 
 </td>
 <td valign="top">
 
-**04 — EXPERIMENTAL COMPUTING**
+### 🧪 Experimental Development
 
-Proofs of concept, numerical simulations, mathematical software, and ideas that cross disciplinary boundaries.
-
-</td>
-</tr>
-</table>
-
-## 02 / RESEARCH & PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [01 — Bang-time perturbations & redshift drift](https://github.com/dxn111/ltb-decaying-drift)
-
-`COSMOLOGY` · `PREPRINT` · `REPRODUCIBLE COMPUTATION`
-
-A study of bang-time perturbations and redshift drift in Lemaître–Tolman–Bondi cosmology, including model assumptions, analytical work, numerical checks, and limits of the findings.
-
-**[Read the paper and reproduce the analysis →](https://github.com/dxn111/ltb-decaying-drift)**
-
-</td>
-<td width="50%" valign="top">
-
-### [02 — Causal Packet Networks](https://github.com/dxn111/causal-packet-networks)
-
-`AI RESEARCH` · `ARCHITECTURE PROPOSAL` · `NOT YET BENCHMARKED`
-
-A proposal for generating independent portions of an answer in parallel, with dependency-aware scheduling and selective repair. Research direction only; performance gains remain unproven.
-
-**[Explore the proposal and evaluation plan →](https://github.com/dxn111/causal-packet-networks)**
+We turn concepts into prototypes, simulations, and reproducible experiments — including work where the answer is still unknown.
 
 </td>
 </tr>
 </table>
 
-> **Research integrity:** A proposal is not a validated result. A preprint is not a peer-reviewed finding. We aim to make those distinctions visible and publish the assumptions, limitations, and reproduction steps alongside the work.
+## Research & open work
 
-<sub>Some selected work is still hosted on the founder's personal GitHub account while the studio organization is being established.</sub>
+A few examples of the areas we explore:
 
-## 03 / HOW WE WORK
+- **[LTB cosmology and redshift drift](https://github.com/dxn111/ltb-decaying-drift)** — a computational physics preprint with equations, numerical models, and reproduction code.
+- **[Causal Packet Networks](https://github.com/dxn111/causal-packet-networks)** — an experimental AI architecture proposal, with performance claims left open for testing.
 
-```text
-QUESTION
-   │
-   ▼
-THEORY & ASSUMPTIONS
-   │
-   ▼
-MODEL / IMPLEMENTATION
-   │
-   ▼
-TESTS & COMPUTATION
-   │
-   ▼
-EVIDENCE + LIMITATIONS
-   │
-   ▼
-PUBLISH / ITERATE
-```
-
-- **First principles.** Start with the underlying problem instead of the marketing.
-- **Reproducibility.** Code, equations, tests, and inputs should be inspectable where possible.
-- **Scientific restraint.** Clearly separate hypotheses, experiments, and established findings.
-- **Useful software.** Build practical tools with readable interfaces and maintainable architecture.
-- **Open exploration.** Share work that others can question, test, and improve.
-
-## 04 / CONNECT
-
-**Organization:** [github.com/DXN1-STUDIOS](https://github.com/DXN1-STUDIOS)  
-**Research & development:** [github.com/dxn111](https://github.com/dxn111)  
-**Website:** [dxn1-ai.vercel.app](https://dxn1-ai.vercel.app/)
-
-For technical discussion, open an issue in the relevant public project. As new work is published under this organization, it will appear in the [repository index](https://github.com/DXN1-STUDIOS?tab=repositories).
+<sub>Some research is currently published through the founder's GitHub account. Research proposals and preprints are not presented as proven or peer-reviewed results.</sub>
 
 <div align="center">
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<br />
 
-<sub>DXN1-STUDIOS · INDEPENDENT R&D · 2026</sub>
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-**ASK HARDER QUESTIONS. BUILD BETTER ANSWERS.**
+**QUESTION EVERYTHING. BUILD SOMETHING.**
+
+<sub>© 2026 DXN1-STUDIOS · Independent Research & Engineering</sub>
 
 </div>
