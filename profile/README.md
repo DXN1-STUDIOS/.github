@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="./assets/studio-header.svg" alt="DXN1-STUDIOS — Independent Engineering & Research" width="100%" />
+<img src="./assets/studio-header.svg" alt="DXN1-STUDIOS — AI Agents, Models & Infrastructure" width="100%" />
 
 <br />
 
 # DXN1-STUDIOS
 
-### Independent research. Real engineering. Open exploration.
+### Building AI that people can actually use.
 
-**Physics** &nbsp;·&nbsp; **Astrophysics** &nbsp;·&nbsp; **Artificial Intelligence** &nbsp;·&nbsp; **Open Source**
+**AI AGENTS** &nbsp;·&nbsp; **FREE AI ACCESS** &nbsp;·&nbsp; **IN-HOUSE MODELS** &nbsp;·&nbsp; **AI INFRASTRUCTURE**
 
-We explore difficult scientific and engineering questions, turn ideas into experiments, and build software that people can actually use.
+An independent AI development studio building capable agents, accessible AI services, and models we train and improve ourselves.
 
 <br />
 
-<a href="https://www.youtube.com/@DXN1-AI"><img alt="YouTube — DXN1-AI" src="https://img.shields.io/badge/YouTube-DXN1--AI-FF0033?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.youtube.com/@DXN1-AI"><img alt="DXN1-AI on YouTube" src="https://img.shields.io/badge/YouTube-DXN1--AI-FF0033?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 &nbsp;
-<a href="https://x.com/dxn1_0day"><img alt="X — @dxn1_0day" src="https://img.shields.io/badge/X-Follow%20%40dxn1__0day-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://x.com/dxn1_0day"><img alt="DXN1 on X" src="https://img.shields.io/badge/X-%40dxn1__0day-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
 &nbsp;
-<a href="https://dxn1-ai.vercel.app/"><img alt="DXN1 website" src="https://img.shields.io/badge/Website-Explore-1677FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://dxn1-ai.vercel.app/"><img alt="DXN1 website" src="https://img.shields.io/badge/Website-DXN1--AI-1677FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br /><br />
 
@@ -26,51 +26,36 @@ We explore difficult scientific and engineering questions, turn ideas into exper
 
 </div>
 
-## What we do
+## What we're building
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🌌 Physics & Astrophysics
-
-We investigate questions in theoretical physics, cosmology, gravitation, and astrophysics through mathematics, models, and computational analysis.
-
+<h3>01 / AI Agents</h3>
+<p>AI systems that can plan tasks, use tools, work across multiple steps, and help people get real work done. Our focus is on useful automation, not just chat.</p>
 </td>
 <td width="50%" valign="top">
-
-### 🧠 AI Research
-
-We explore language-model architectures, efficient computation, evaluation methods, and experimental approaches to intelligent systems.
-
+<h3>02 / Free AI Access</h3>
+<p>Making capable AI easier to access without unnecessary barriers. We're building toward free-to-use AI experiences with clear, fair usage limits.</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-
-### ⚙️ Software Engineering
-
-We build open-source tools, backend systems, developer infrastructure, and software that supports ambitious technical work.
-
+<h3>03 / IP-Based Rate Limiting</h3>
+<p>Infrastructure for fair access: manage request limits by IP, reduce abuse, and share available capacity without requiring an account for every interaction.</p>
 </td>
 <td valign="top">
-
-### 🧪 Experimental Development
-
-We turn concepts into prototypes, simulations, and reproducible experiments — including work where the answer is still unknown.
-
+<h3>04 / Our Own AI Models</h3>
+<p>Training and fine-tuning AI models in-house, experimenting with model behavior, efficiency, and deployment instead of relying only on third-party systems.</p>
 </td>
 </tr>
 </table>
 
-## Research & open work
+## The direction
 
-A few examples of the areas we explore:
+**More capable agents. More accessible AI. More control over the technology.**
 
-- **[LTB cosmology and redshift drift](https://github.com/dxn111/ltb-decaying-drift)** — a computational physics preprint with equations, numerical models, and reproduction code.
-- **[Causal Packet Networks](https://github.com/dxn111/causal-packet-networks)** — an experimental AI architecture proposal, with performance claims left open for testing.
-
-<sub>Some research is currently published through the founder's GitHub account. Research proposals and preprints are not presented as proven or peer-reviewed results.</sub>
+We're working on the full stack — from AI experiences and agent workflows to model experiments and the systems that serve them. Projects evolve as we test, improve, and release them; not every idea shown here is a finished product.
 
 <div align="center">
 
@@ -78,8 +63,8 @@ A few examples of the areas we explore:
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-**QUESTION EVERYTHING. BUILD SOMETHING.**
+**BUILD · TRAIN · DEPLOY**
 
-<sub>© 2026 DXN1-STUDIOS · Independent Research & Engineering</sub>
+<sub>© 2026 DXN1-STUDIOS · Independent AI Development</sub>
 
 </div>
