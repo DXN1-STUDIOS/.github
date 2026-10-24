@@ -1,98 +1,140 @@
 <div align="center">
 
-<img src="./assets/studio-header.svg" alt="DXN1-STUDIOS — independent engineering and research" width="100%" />
+<img src="./assets/studio-header.svg" width="100%" alt="DXN1-STUDIOS — independent engineering and research" />
 
 <br />
 
-### Engineering what comes next.
+### Research without the noise. Engineering without the shortcuts.
 
-**Independent research. Applied engineering. Open experimentation.**
+**PHYSICS · ASTROPHYSICS · ARTIFICIAL INTELLIGENCE · SOFTWARE SYSTEMS**
 
-We develop software, investigate intelligent systems, and turn ambitious technical ideas into testable work.
+An independent studio exploring questions worth investigating — and building the tools needed to test them.
 
-[**Explore our work ↗**](https://github.com/DXN1-STUDIOS) &nbsp; · &nbsp; [**Research ↗**](https://github.com/dxn111/causal-packet-networks) &nbsp; · &nbsp; [**Open source ↗**](https://github.com/dxn111)
+[**RESEARCH**](#02--research--projects) &nbsp; / &nbsp; [**FOCUS**](#01--what-we-work-on) &nbsp; / &nbsp; [**OPEN SOURCE**](https://github.com/DXN1-STUDIOS?tab=repositories) &nbsp; / &nbsp; [**CONTACT & LINKS**](#04--connect)
 
-<br />
-
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-## 01 / THE STUDIO
+## 00 / ABOUT
 
-**DXN1-STUDIOS** is an independent engineering and research initiative spanning artificial intelligence, software systems, developer infrastructure, and theoretical research.
+**DXN1-STUDIOS** is an independent research and development initiative working across theoretical physics, computational science, AI research, and software engineering.
 
-We're interested in both sides of difficult problems: the theory that makes a new approach possible and the implementation that tells us whether it actually works.
+We care about the space between an ambitious idea and a defensible result: the equations, the assumptions, the code, the experiments, and the honest accounting of what still isn't known.
 
-Our work includes production-oriented software, early-stage experiments, and research proposals. We distinguish between **shipped code, working prototypes, and unverified hypotheses**.
+The goal is not to make everything look finished. It is to **make interesting work inspectable, reproducible, and worth building on.**
 
-<table>
-<tr>
-<td width="33%" valign="top"><strong>01 — INTELLIGENCE</strong><br/><br/>AI agents, model integration, multi-agent systems, evaluation, and computational efficiency.</td>
-<td width="33%" valign="top"><strong>02 — ENGINEERING</strong><br/><br/>Backend architecture, developer tools, open-source infrastructure, automation, and system design.</td>
-<td width="33%" valign="top"><strong>03 — RESEARCH</strong><br/><br/>Physics, astrophysics, mathematical modeling, experimental AI architectures, and scientific computing.</td>
-</tr>
-</table>
-
-## 02 / SELECTED WORK
+## 01 / WHAT WE WORK ON
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/dxn111/sonderr">SONDERR ↗</a></h3>
-<p><strong>Agentic software / AI systems</strong></p>
-<p>An open-source AI agent platform exploring tool use, coordinated workflows, extensibility, and human oversight.</p>
-<a href="https://github.com/dxn111/sonderr">Explore repository →</a>
+
+**01 — PHYSICS & ASTROPHYSICS**
+
+Cosmology, theoretical models, mathematical analysis, computational experiments, and research preprints.
+
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/dxn111/causal-packet-networks">CAUSAL PACKET NETWORKS ↗</a></h3>
-<p><strong>Experimental model architecture</strong></p>
-<p>A research proposal investigating alternative approaches to efficient AI computation and information flow.</p>
-<a href="https://github.com/dxn111/causal-packet-networks">Explore research →</a>
+
+**02 — ARTIFICIAL INTELLIGENCE**
+
+Language-model architectures, computational efficiency, reasoning systems, evaluation, and experimental methods.
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/dxn111/ltb-decaying-drift">DECAYING DRIFT ↗</a></h3>
-<p><strong>Physics / theoretical investigation</strong></p>
-<p>Exploratory scientific work supported by technical writing, equations, and computational materials.</p>
-<a href="https://github.com/dxn111/ltb-decaying-drift">Explore research →</a>
+<td valign="top">
+
+**03 — SOFTWARE ENGINEERING**
+
+Backend systems, open-source utilities, developer infrastructure, operating systems, and practical research tooling.
+
 </td>
-<td width="50%" valign="top">
-<h3>WHAT'S NEXT ↗</h3>
-<p><strong>Systems / developer experience</strong></p>
-<p>Future projects and releases will be published under DXN1-STUDIOS as they become ready for public use and review.</p>
-<a href="https://github.com/DXN1-STUDIOS?tab=repositories">Watch the studio →</a>
+<td valign="top">
+
+**04 — EXPERIMENTAL COMPUTING**
+
+Proofs of concept, numerical simulations, mathematical software, and ideas that cross disciplinary boundaries.
+
 </td>
 </tr>
 </table>
 
-<sub>Selected links currently point to work published on the founder's GitHub account; this organization is being established as the studio's home.</sub>
+## 02 / RESEARCH & PROJECTS
 
-## 03 / PRINCIPLES
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Build, don't just announce.** Where possible, release runnable code and reproducible work.
-- **Show the assumptions.** Make limitations, open questions, and experimental status visible.
-- **Work in the open.** Prefer clear documentation, accessible tools, and learnable implementations.
-- **Cross disciplines.** Software engineering, AI, and physics can make each other stronger.
-- **Keep improving.** Measure real performance and revise designs when the evidence changes.
+### [01 — Bang-time perturbations & redshift drift](https://github.com/dxn111/ltb-decaying-drift)
+
+`COSMOLOGY` · `PREPRINT` · `REPRODUCIBLE COMPUTATION`
+
+A study of bang-time perturbations and redshift drift in Lemaître–Tolman–Bondi cosmology, including model assumptions, analytical work, numerical checks, and limits of the findings.
+
+**[Read the paper and reproduce the analysis →](https://github.com/dxn111/ltb-decaying-drift)**
+
+</td>
+<td width="50%" valign="top">
+
+### [02 — Causal Packet Networks](https://github.com/dxn111/causal-packet-networks)
+
+`AI RESEARCH` · `ARCHITECTURE PROPOSAL` · `NOT YET BENCHMARKED`
+
+A proposal for generating independent portions of an answer in parallel, with dependency-aware scheduling and selective repair. Research direction only; performance gains remain unproven.
+
+**[Explore the proposal and evaluation plan →](https://github.com/dxn111/causal-packet-networks)**
+
+</td>
+</tr>
+</table>
+
+> **Research integrity:** A proposal is not a validated result. A preprint is not a peer-reviewed finding. We aim to make those distinctions visible and publish the assumptions, limitations, and reproduction steps alongside the work.
+
+<sub>Some selected work is still hosted on the founder's personal GitHub account while the studio organization is being established.</sub>
+
+## 03 / HOW WE WORK
+
+```text
+QUESTION
+   │
+   ▼
+THEORY & ASSUMPTIONS
+   │
+   ▼
+MODEL / IMPLEMENTATION
+   │
+   ▼
+TESTS & COMPUTATION
+   │
+   ▼
+EVIDENCE + LIMITATIONS
+   │
+   ▼
+PUBLISH / ITERATE
+```
+
+- **First principles.** Start with the underlying problem instead of the marketing.
+- **Reproducibility.** Code, equations, tests, and inputs should be inspectable where possible.
+- **Scientific restraint.** Clearly separate hypotheses, experiments, and established findings.
+- **Useful software.** Build practical tools with readable interfaces and maintainable architecture.
+- **Open exploration.** Share work that others can question, test, and improve.
 
 ## 04 / CONNECT
 
-Interested in an idea, implementation, or contribution? Explore the public repositories and open an issue where discussion belongs.
-
-**Studio:** [github.com/DXN1-STUDIOS](https://github.com/DXN1-STUDIOS)  
-**Founder / development:** [github.com/dxn111](https://github.com/dxn111)  
+**Organization:** [github.com/DXN1-STUDIOS](https://github.com/DXN1-STUDIOS)  
+**Research & development:** [github.com/dxn111](https://github.com/dxn111)  
 **Website:** [dxn1-ai.vercel.app](https://dxn1-ai.vercel.app/)
+
+For technical discussion, open an issue in the relevant public project. As new work is published under this organization, it will appear in the [repository index](https://github.com/DXN1-STUDIOS?tab=repositories).
 
 <div align="center">
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<sub>DXN1-STUDIOS © 2026 · SOFTWARE / INTELLIGENCE / RESEARCH</sub>
+<sub>DXN1-STUDIOS · INDEPENDENT R&D · 2026</sub>
 
-<br/>
-
-<strong>Think rigorously. Build deliberately.</strong>
+**ASK HARDER QUESTIONS. BUILD BETTER ANSWERS.**
 
 </div>
