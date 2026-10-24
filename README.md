@@ -1,66 +1,85 @@
 <div align="center">
 
-<img src="./profile/assets/studio-header.svg" width="100%" alt="DXN1-STUDIOS — Independent Engineering and Research" />
+<img src="./profile/assets/studio-header.svg" alt="DXN1-STUDIOS — Independent Engineering & Research" width="100%" />
 
-# DXN1-STUDIOS / .github
+<br />
 
-**Official source of the DXN1-STUDIOS GitHub organization profile.**
+# DXN1-STUDIOS
 
-[**View the live organization →**](https://github.com/DXN1-STUDIOS) &nbsp; · &nbsp; [**Read the profile →**](./profile/README.md)
+### Independent research. Real engineering. Open exploration.
+
+**Physics** &nbsp;·&nbsp; **Astrophysics** &nbsp;·&nbsp; **Artificial Intelligence** &nbsp;·&nbsp; **Open Source**
+
+We explore difficult scientific and engineering questions, turn ideas into experiments, and build software that people can actually use.
+
+<br />
+
+<a href="https://www.youtube.com/@DXN1-AI"><img alt="YouTube — DXN1-AI" src="https://img.shields.io/badge/YouTube-DXN1--AI-FF0033?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+&nbsp;
+<a href="https://x.com/dxn1_0day"><img alt="X — @dxn1_0day" src="https://img.shields.io/badge/X-Follow%20%40dxn1__0day-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+&nbsp;
+<a href="https://dxn1-ai.vercel.app/"><img alt="DXN1 website" src="https://img.shields.io/badge/Website-Explore-1677FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<br /><br />
+
+<img src="./profile/assets/divider.svg" alt="" width="100%" />
 
 </div>
 
----
+## What we do
 
-## What is this repository?
+<table>
+<tr>
+<td width="50%" valign="top">
 
-GitHub uses a public repository named `.github` with a file at `profile/README.md` to render a custom **organization homepage**.
+### 🌌 Physics & Astrophysics
 
-This repository holds the public-facing introduction and design assets for **DXN1-STUDIOS** — an independent research and engineering studio working on physics, astrophysics, artificial intelligence, computational research, and software.
+We investigate questions in theoretical physics, cosmology, gravitation, and astrophysics through mathematics, models, and computational analysis.
 
-The main organization profile is **[profile/README.md](./profile/README.md)**. Changes merged into that file on the default branch appear on the [organization overview](https://github.com/DXN1-STUDIOS).
+</td>
+<td width="50%" valign="top">
 
-## Contents
+### 🧠 AI Research
 
-| Path | Purpose |
-| --- | --- |
-| [`profile/README.md`](./profile/README.md) | The public organization profile shown on GitHub |
-| [`profile/assets/studio-header.svg`](./profile/assets/studio-header.svg) | Custom blue and black studio header |
-| [`profile/assets/divider.svg`](./profile/assets/divider.svg) | Minimal visual separators |
+We explore language-model architectures, efficient computation, evaluation methods, and experimental approaches to intelligent systems.
 
-## Current research directions
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-| Field | Areas |
-| --- | --- |
-| **Physics & astrophysics** | Cosmology, theoretical models, equations, numerical experiments |
-| **AI research** | Model efficiency, new architecture proposals, evaluation |
-| **Software engineering** | Backend systems, open-source tools, research infrastructure |
-| **Experimental computing** | Simulations, proof-of-concept systems, scientific software |
+### ⚙️ Software Engineering
 
-### Selected reading
+We build open-source tools, backend systems, developer infrastructure, and software that supports ambitious technical work.
 
-- [Bang-time perturbations and redshift drift in LTB cosmology](https://github.com/dxn111/ltb-decaying-drift) — preprint, source, and reproduction scripts.
-- [Causal Packet Networks](https://github.com/dxn111/causal-packet-networks) — research proposal and experiment plan; no validated performance claim.
+</td>
+<td valign="top">
 
-*These projects currently live on the founder's GitHub account, not in this organization.*
+### 🧪 Experimental Development
 
-## Updating the organization homepage
+We turn concepts into prototypes, simulations, and reproducible experiments — including work where the answer is still unknown.
 
-1. Edit [`profile/README.md`](./profile/README.md).
-2. Keep links working and ensure that research claims match the actual project status.
-3. Commit changes to `main`.
-4. Review the [DXN1-STUDIOS organization page](https://github.com/DXN1-STUDIOS) to check the rendered result.
+</td>
+</tr>
+</table>
 
-**Note:** GitHub organization metadata — its avatar, short bio, display name, website, and location — is configured separately under the organization's profile settings. Editing this repository does **not** update those fields.
+## Research & open work
 
-## Principles
+A few examples of the areas we explore:
 
-We value reproducible work, well-documented assumptions, readable implementation, responsible claims, and useful open-source research.
+- **[LTB cosmology and redshift drift](https://github.com/dxn111/ltb-decaying-drift)** — a computational physics preprint with equations, numerical models, and reproduction code.
+- **[Causal Packet Networks](https://github.com/dxn111/causal-packet-networks)** — an experimental AI architecture proposal, with performance claims left open for testing.
+
+<sub>Some research is currently published through the founder's GitHub account. Research proposals and preprints are not presented as proven or peer-reviewed results.</sub>
 
 <div align="center">
 
-<img src="./profile/assets/divider.svg" width="100%" alt="" />
+<br />
 
-<sub>DXN1-STUDIOS · INDEPENDENT RESEARCH & ENGINEERING</sub>
+<img src="./profile/assets/divider.svg" alt="" width="100%" />
+
+**QUESTION EVERYTHING. BUILD SOMETHING.**
+
+<sub>© 2026 DXN1-STUDIOS · Independent Research & Engineering</sub>
 
 </div>
